@@ -5,83 +5,98 @@
             "gender": "Female",
             "address": "Barisal",
             "phone": "+1(712)344-5671",
-            "salary": 10000
+            "salary": 10000,
+            "img": "https://thumbs.dreamstime.com/b/adult-woman-having-eyelash-extension-professional-beauty-salon-picture-127129299.jpg"
+            
         },
         {
             "name": "Sumi",
             "gender": "Female",
             "address": "Rangpur",
             "phone": "+1(712)344-5672",
-            "salary": 12000
+            "salary": 12000,
+            "img":"https://image3.mouthshut.com/images/imagesp/925823794s.jpg"
         },
         {
             "name": "Sarmin",
             "gender": "Female",
             "address": "Dinajpur",
             "phone": "+1(712)344-5673",
-            "salary": 14000
+            "salary": 14000,
+            "img":"https://content3.jdmagicbox.com/comp/indore/w3/0731px731.x731.170920133614.s3w3/catalogue/shine-and-glow-ladies-parlour-indore-city-indore-ladies-beauty-parlours-12fcgc5.jpg"
+            
         },
         {
             "name": "Tama",
             "gender": "Female",
             "address": "Comilla",
             "phone": "+1(712)344-5674",
-            "salary": 15000
+            "salary": 15000,
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2ImCki6JoBkPjnps_deHHmfCFoPYIRNTBc0ykEZchlOCJhKS6I8pU_-1ZzPhthvURGXU&usqp=CAU"
+         
         },
         {
             "name": "Ety",
             "gender": "Female",
             "address": "Faridpur",
             "phone": "+1(712)344-5675",
-            "salary": 16000
+            "salary": 16000,
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8s0SUfvv7wJ7C56IRPHWHH7LdXZIfXgIEdtB4l2Mn7JtZDc9VzbiDiMvkOWnQ0Vw-Pqk&usqp=CAU"
         },
         {
             "name": "Putul",
             "gender": "Female",
             "address": "Barisal",
             "phone": "+1(712)344-5676",
-            "salary": 18000
+            "salary": 18000,
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFPP9e8KfFUaDubU3bZ1UNP3HoFjBD5Y4mdA&usqp=CAU"
         },
         {
             "name": "Rupa",
             "gender": "Female",
             "address": "Noakhali ",
             "phone": "+1(712)344-5677",
-            "salary": 19000
+            "salary": 19000,
+            "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjZ3tkJIsl94ZZOmH5QBfeFBTeETBXvrvYZ1E2KClaEFPOp_BdTiQ4M2SjfvpZjbnvHSk&usqp=CAU"
         },
         {
             "name": "Dalia",
             "gender": "Female",
             "address": "Patuakhali",
             "phone": "+1(712)344-5678",
-            "salary": 20000
+            "salary": 20000,
+            "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWWhsmgswAsjBB1Ap1WlZJxvbgFC5DCRDi7tXgM4L9Be_euTJ64Ju3KYx3Y1nQsl9Vzqg&usqp=CAU"
         },
         {
             "name": "Mariom",
             "gender": "Female",
             "address": "Khulna",
             "phone": "+1(712)344-5679",
-            "salary": 21000
+            "salary": 21000,
+            "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCCm34w7TibK9jFmjIkZfYUFfDhiOawrb-rw&usqp=CAU"
         },
         {
             "name": "Mitu",
             "gender": "Female",
             "address": "Dhaka",
             "phone": "+1(712)344-5681",
-            "salary": 22000
+            "salary": 22000,
+            "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-jViXYH72RH72qmYYR8oqlOFM0go4ckFrgU3zRzHHcF99RRZTFgsaEurMpBrU15e8tro&usqp=CAU"
         },
         {
             "name": "Parvin",
             "gender": "Female",
             "address": "Pabna",
             "phone": "+1(712)344-5682",
-            "salary": 23000
+            "salary": 23000,
+            "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpXx8_EIyUKfs94ZltWvherQQEscuhCASbpXgc95wLsKBAps8LJ5bStGcxW6uIaB99-h0&usqp=CAU"
         },
         {
             "name": "Epty",
             "gender": "Female",
             "address": "Bogra",
             "phone": "+1(712)344-5683",
-            "salary": 25000
+            "salary": 25000,
+            "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2ArRB4lrLdVPeUFlQ-3uKWKsb0LnW4UJH-57Nq912zQftVH4lXOnclhSiFMxKkJttHpo&usqp=CAU"
         }
     ]

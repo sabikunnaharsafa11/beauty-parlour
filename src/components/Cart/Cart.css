@@ -1,0 +1,23 @@
+.cart {
+    padding: 10px;
+    z-index: 1;
+    height: fit-content;
+}
+
+/* Cart Info Color  */
+.cart-info {
+    display: flex;
+    align-items: center;
+    backdrop-filter: blur (9px);
+    -webkit-backdrop-filter: blur(9px);
+    color: #fff;
+    padding: 10px;
+    border-radius: 90px;
+    margin-top: 10px;
+}
+
+/* Cart Image Sizing */
+.cart-img {
+    width: 15%;
+    margin: 0px 5px;
+}
