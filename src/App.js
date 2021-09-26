@@ -1,13 +1,13 @@
 // import logo from './logo.svg';
 import './App.css';
 import Header from './components/Header/Header';
-import Mian from './components/Main/Main';
+import Parlours from './components/parlours/parlours'
 
 function App() {
   return (
     <div className="App">
    <Header></Header>
-    <Mian></Mian>
+    <Parlours></Parlours>
     
     </div>
   );

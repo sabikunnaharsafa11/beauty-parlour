@@ -29,10 +29,10 @@
             "salary": 15000
         },
         {
-            "Name": "Bithy",
-            "Gender": "Female",
-            "Address": "Faridpur",
-            "Phone": "+1(712)344-5675",
+            "name": "Ety",
+            "gender": "Female",
+            "address": "Faridpur",
+            "phone": "+1(712)344-5675",
             "salary": 16000
         },
         {
