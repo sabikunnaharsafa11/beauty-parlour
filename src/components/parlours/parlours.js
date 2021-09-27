@@ -29,13 +29,13 @@ const handleAddToCart = (parlour)  => {
             parlour={parlour}
             handleAddToCart={handleAddToCart} >
                 </Parlourstaff>) } 
-                </div> 
-                </div> 
+                  </div> 
+                     </div> 
                 <div className="col-lg-3"> 
                 <Cart cart={addCartPalours}> </Cart>
-                 </div> 
-                 </div> 
-                 </div>
+                </div> 
+              </div> 
+          </div>
   
     );
 };

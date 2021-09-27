@@ -7,11 +7,9 @@ const Cart = (props) => {
     const totalSalary = cart.reduce ((previous, current) => previous + current.salary, 0)
     return (
         <div className="card-design">
-             <h1>Total Add: {cart.length}</h1>
-             <h1> totalSalary: ${totalSalary}</h1>
-        
-           
-            {
+             <h4> <i class="fas fa-users-cog"></i> Added Staffs: {cart.length}</h4>
+             <h4> <i class="fas fa-money-check-alt"></i> Total Cost:${totalSalary}</h4>
+          {
                cart.map(element =><div className="cart-info btn btn-dark">
                <div className="cart-img">
                <img className="w-100 rounded-circle" src={element.img} alt="" />

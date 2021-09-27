@@ -8,12 +8,12 @@ const Parlourstaff = (props) => {
         <div>
             <div className="card parlour-card parlour-section">
             <img className="img-desigen" src={img} alt="" />
-            <h5>{name}</h5>
-            <p> gender: {gender}</p>
-            <p>address: {address}</p>
-            <p>Phone: {phone}</p>
-            <p>Salary: {salary}</p>
-            <button className="btn btn-dark btn1" onClick= {() => props.handleAddToCart(props.parlour)}>Parlour Staffs</button>
+            <h3 className="fw-bold mt-3">{name}</h3>
+            <p className="fw-bolder">Gender: {gender}</p>
+            <p className="fw-bolder" style={{color:"#FF6F00"}}>Salary: ${salary}</p>
+            <p className="fw-bolder" >Address: {address}</p>  
+            <p  className="fw-bolder"> Phone: {phone}</p>  
+            <button className="btn btn-dark btn1 fw-bolder fs-5" onClick= {() => props.handleAddToCart(props.parlour)}><i class="fas fa-plus-square"></i>  Parlour Staffs</button>
         </div>
         </div>
     );
